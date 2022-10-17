@@ -13,7 +13,7 @@ var database = [
             
     },
     {
-        name: "Bog om Gp",
+        name: "Bog om Gp, nå",
         type: "Bog",
         description: "om Gp",
         theme: ["Bank", "Konto"],
