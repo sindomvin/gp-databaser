@@ -90,6 +90,6 @@ var database = [
         type: "Bog",
         description: "om Gp",
         theme: ["Bank", "Konto"],
-        rating: 7
+        rating: 10
     }
 ];
