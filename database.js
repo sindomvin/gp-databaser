@@ -5,7 +5,7 @@ var database = [
         type: "Artikel",
         description: "om Gp",
         theme: ["Bank", "Penge"],
-        rating: 3
+        rating: 4
         // andre ideer:
         //    nivau
         //    forfatter
