@@ -13,7 +13,7 @@ var database = [
             
     },
     {
-        name: "Bog om Gp, nå",
+        name: "Bog om Gp",
         type: "Bog",
         description: "om Gp",
         theme: ["Bank", "Konto"],
@@ -85,11 +85,4 @@ var database = [
         link: "https://www.godepenge.dk/analyser/2021/10/17/banker-lner-ikke-bare-penge-ud-de-skaber-dem",
         image: "https://images.squarespace-cdn.com/content/v1/587382daebbd1a717d8e9df3/1634465043055-HO11FDBTGRUKR7ZVIM7V/photo-1501167786227-4cba60f6d58f.jpg?format=500w"
     },
-    {
-        name: "Hej Malthe",
-        type: "Bog",
-        description: "om Gp",
-        theme: ["Bank", "Konto"],
-        rating: 10
-    }
 ];
