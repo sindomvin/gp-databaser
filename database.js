@@ -31,7 +31,7 @@ var database = [
         type: "Bog",
         description: "om Gp",
         theme: ["Magt", "Politik"],
-        rating: 10
+        rating: 5
     },
     {
         name: "Film om Gp",
