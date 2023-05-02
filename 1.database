@@ -15,9 +15,7 @@ var database = [
         image: "", //link til billede
     },
     {
-        /*Et eksempel
-        forklar hvad der forgår
-        */
+        //Et eksempel
         name: "Demokratiser pengeskabelsen og indfri den grønne omstilling", //Bemærk det er skrevet mellem anførselstegnene
         type: "Artikel", //Kun et medie og skrevet med stort forbogstav
         rating: 10, //uden anførselstegn
