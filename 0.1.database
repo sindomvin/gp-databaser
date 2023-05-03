@@ -1,5 +1,41 @@
 //Database
 var database = [
+    { 
+        //Dette objekt bestemmer rækkefølgen af emnerne og skal være øverst.
+        name: "Emene Rækkefølge bestemmer"
+        theme: [
+            "English",
+            "Dansk",
+            
+            "Pengeskabelse",
+            "Clearing",
+            "Betalingssystemer",
+            "Pengereform",
+            "EU",
+            
+            "Pengepolitik",
+            
+            "Centralbanker",
+            "Banker (private)",
+            "Den finansielle sektor",
+            "Skyggebanker",
+            
+            "Kontanter",
+            "CBDC",
+            "Kryptovaluta",
+            "Lokalvaluta",
+            
+            "Pengehistorie",
+            "Pengeteori",
+            
+            "Finanskrise",
+            "Boligmarkedet",
+            "Kapitalismekritik",
+            "Grøn omstilling",
+            "Økonomisk ulighed",
+            "Demokrati"
+            ]    
+    },
     {
         //skabelon, kopier fra "{" linjen over denne til "}," indsæt så efter "}," for at lave en ny reference
         //udfyld derefter med info for referencen
