@@ -1,12 +1,16 @@
 //test2.database.js
 var verDatabase = "test2.database.js";
 var database = [
-        {
-        name: "Rækkefølge bestemmer",
+    {
+        name: "Banker låner ikke bare penge ud - de skaber dem",
         type: "Artikel",
-        description: "om Gp",
-        theme: ["Banker", "Klima"],
-        rating: 0      
+        rating: 10,
+        price: 4.00,
+        date: "2021-12-16",
+        theme: ["Demokrati", "Pengeskabelse", "Pengesystem", "Banker"],
+        description: "Vi tror, vi ved, hvordan banker fungerer – og at systemet er stabilt. Men nyere forskning peger på, at bankernes forunderlige evne til at skabe penge gennem udlånet pumper priserne på fx boligmarkedet op, indtil bankerne og somme tider hele systemet falder sammen. Derfor er det elementært demokratisk behov, at vi får en bedre forståelse af, hvordan penge skabes – og hvordan de er med til at skabe boligbobler og finanskriser.",
+        link: "https://www.godepenge.dk/analyser/2021/10/17/banker-lner-ikke-bare-penge-ud-de-skaber-dem",
+        image: "https://images.squarespace-cdn.com/content/v1/587382daebbd1a717d8e9df3/1634465043055-HO11FDBTGRUKR7ZVIM7V/photo-1501167786227-4cba60f6d58f.jpg?format=500w"
     },
     {
         //skabelon, kopier fra "{" linjen over denne til "}," indsæt så efter "}," for at lave en ny reference
