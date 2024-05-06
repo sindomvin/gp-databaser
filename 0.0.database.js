@@ -1,4 +1,5 @@
-//Database
+//0.0.database.js
+var verDatabase = "0.0.database.js"
 var database = [
     {
         name: "Rækkefølge bestemmer",
