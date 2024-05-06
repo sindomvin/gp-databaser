@@ -28,5 +28,16 @@ var database = [
         //kun linje skift der hvor der står "<br>"
         link: "https://klimamonitor.dk/debat/art8482256/Demokratiser-pengeskabelsen-og-indfri-den-grønne-omstilling",
         image: "https://images.squarespace-cdn.com/content/v1/587382daebbd1a717d8e9df3/7a3a4aff-519f-4d00-acd4-969b8503a575/Udklipklimademo.PNG?format=1000w",
+    },
+    {
+        name: "Hvis du ikke hopper på boligstigen bliver du kørt over af bankernes pengemaskine",
+        type: "Artikel",
+        rating: 10,
+        price: 0.00,
+        date: "2021-11-04",
+        theme: ["Boligmarkedet", "Pengeskabelse", "Corona", "Bolig bobler"],
+        description: "Under corona stiger boligpriserne igen eksplosivt, og før eller siden brister boblen formodentlig. Bankerne skaber nemlig nye penge, når de udsteder lån, og for at undgå en ny krise må vi føre pengeskabelsen tilbage til Nationalbanken, skriver Jonas Jensen-Dharmaratne, der er formand for Gode Penge, og Ib Ravn, lektor ved Aarhus Universitet, i denne kronik",
+        link: "https://www.godepenge.dk/analyser/2021/11/4/hvis-du-ikke-hopper-p-boligstigen-bliver-du-krt-over-af-bankernes-pengemaskine",
+        image: "https://images.squarespace-cdn.com/content/v1/587382daebbd1a717d8e9df3/01d40260-a092-4e7d-a2f7-9bc740c24666/unsplash-image-ifeqg7RgkiA.jpg?format=1000w"
     }
 ];
