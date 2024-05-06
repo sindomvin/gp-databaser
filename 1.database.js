@@ -1,4 +1,5 @@
-//Database
+//1.database.js
+var verDatabase = "1.database.js";
 var database = [
     {
         //skabelon, kopier fra "{" linjen over denne til "}," indsæt så efter "}," for at lave en ny reference
