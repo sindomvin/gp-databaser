@@ -1,6 +1,13 @@
 //test2.database.js
 var verDatabase = "test2.database.js";
 var database = [
+        {
+        name: "Rækkefølge bestemmer",
+        type: "Artikel",
+        description: "om Gp",
+        theme: ["Banker", "Klima"],
+        rating: 0      
+    },
     {
         //skabelon, kopier fra "{" linjen over denne til "}," indsæt så efter "}," for at lave en ny reference
         //udfyld derefter med info for referencen
