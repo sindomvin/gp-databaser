@@ -1,5 +1,5 @@
-//2.database.js
-var verDatabase = "2.database.js";
+//test2.database.js
+var verDatabase = "test2.database.js";
 var database = [
     {
         name: "Rækkefølge bestemmer",
