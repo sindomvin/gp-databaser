@@ -1,4 +1,5 @@
-//Database
+//0.1.database.js
+var verDatabase = "0.1.database.js";
 var database = [
     { 
         //Dette objekt bestemmer rækkefølgen af emnerne og skal være øverst.
