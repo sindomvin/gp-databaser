@@ -1,4 +1,5 @@
-//Database
+//Database og
+var verDatabase = "og"
 var database = [
     {
         name: "Rækkefølge bestemmer",
