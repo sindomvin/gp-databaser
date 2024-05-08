@@ -1,1 +1,1 @@
-Her er databaser som bruges som indhold til det online bibliotek
+Her er databaser der bruges til indhold på det online bibliotek
