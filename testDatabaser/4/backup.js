@@ -1,6 +1,6 @@
 //Backup, kopi af sidste gang det fungerede
-//test3.database.js
-var verDatabase = "test3.database.js";
+//test4.database.js
+var verDatabase = "test4.database.js";
 var database = [
     {
         //skabelon, kopier fra "{" linjen over denne til "}," indsæt så efter "}," for at lave en ny reference
