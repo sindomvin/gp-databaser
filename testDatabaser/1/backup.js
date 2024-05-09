@@ -1,4 +1,6 @@
 //Backup, kopi af sidste gang det fungerede
+//test1.database.js
+var verDatabase = "test1.database.js";
 var database = [
     {
         //skabelon, kopier fra "{" linjen over denne til "}," indsæt så efter "}," for at lave en ny reference
@@ -27,5 +29,5 @@ var database = [
         //kun linje skift der hvor der står "<br>"
         link: "https://klimamonitor.dk/debat/art8482256/Demokratiser-pengeskabelsen-og-indfri-den-grønne-omstilling",
         image: "https://images.squarespace-cdn.com/content/v1/587382daebbd1a717d8e9df3/7a3a4aff-519f-4d00-acd4-969b8503a575/Udklipklimademo.PNG?format=1000w",
-    }
+    },
 ];
