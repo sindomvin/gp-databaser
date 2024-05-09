@@ -1,4 +1,4 @@
-/Backup, kopi af sidste gang det fungerede
+//Backup, kopi af sidste gang det fungerede
 //test2.database.js
 var verDatabase = "test2.database.js";
 var database = [
