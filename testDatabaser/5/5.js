@@ -1,6 +1,43 @@
 //test5.database.js
 var verDatabase = "test5.database.js";
 var database = [
+    { 
+        //Dette objekt bestemmer rækkefølgen af emnerne og skal være øverst.
+        //Her i ligger alle de emner man kan vælge i mellem
+        name: "Emene Rækkefølge bestemmer",
+        theme: [
+            "English",
+            "Dansk",
+            "Introducerende",
+            
+            "Pengeskabelse",
+            "Betalingssystemer",
+            "Pengereform",
+            "EU",
+            
+            "Pengepolitik",
+            
+            "Centralbanker",
+            "Banker",
+            "Den finansielle sektor",
+            "Skyggebanker",
+            
+            "Kontanter",
+            "CBDC",
+            "Kryptovaluta",
+            "Lokalvaluta",
+            
+            "Pengehistorie",
+            "Pengeteori",
+            
+            "Finanskrise",
+            "Boligmarkedet",
+            "Kapitalismekritik",
+            "Grøn omstilling",
+            "Økonomisk ulighed",
+            "Demokrati"
+            ]    
+    },
     {
         //skabelon, kopier fra "{" linjen over denne til "}," indsæt så efter "}," for at lave en ny reference
         //udfyld derefter med info for referencen
