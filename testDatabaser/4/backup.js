@@ -1,7 +1,43 @@
 //Backup, kopi af sidste gang det fungerede
-//test4.database.js
 var verDatabase = "test4.database.js";
 var database = [
+    { 
+        //Dette objekt bestemmer rækkefølgen af emnerne og skal være øverst.
+        //Her i ligger alle de emner man kan vælge i mellem
+        name: "Emene Rækkefølge bestemmer",
+        theme: [
+            "English",
+            "Dansk",
+            "Introducerende",
+            
+            "Pengeskabelse",
+            "Betalingssystemer",
+            "Pengereform",
+            "EU",
+            
+            "Pengepolitik",
+            
+            "Centralbanker",
+            "Banker",
+            "Den finansielle sektor",
+            "Skyggebanker",
+            
+            "Kontanter",
+            "CBDC",
+            "Kryptovaluta",
+            "Lokalvaluta",
+            
+            "Pengehistorie",
+            "Pengeteori",
+            
+            "Finanskrise",
+            "Boligmarkedet",
+            "Kapitalismekritik",
+            "Grøn omstilling",
+            "Økonomisk ulighed",
+            "Demokrati"
+            ]    
+    },
     {
         //skabelon, kopier fra "{" linjen over denne til "}," indsæt så efter "}," for at lave en ny reference
         //udfyld derefter med info for referencen
@@ -11,7 +47,7 @@ var database = [
         price: 0.00, //Pris for at tilgå referencen
         date: '2021-11-29', //tilblivesesdato for det man referer til, år-månded-dag
         authors: 'forfatter', //forfatter eller forfattere
-        theme: ['Bank', 'Penge'], //Emnerne på denne form ['emne1', 'emne2', 'emne3']
+        theme: ['Demokrati', 'Pengeskabelse'], //Emnerne på denne form ['Emne1', 'Emne2', 'Emne3']. Det skal være med stort forbogstav
         description: 'Obejkt til kopiering', //Beskrivelse af den specifikke Artikel, bog osv.
         link: "https://www.godepenge.dk", //link 
         image: "", //link til billede
@@ -24,7 +60,7 @@ var database = [
         price: 0.00, //med 2 decimaler, uden anførselstegn
         date: "2021-11-29", //med anførselstegn
         authors: "Mads Thunestvedt, Andrea Thorup", //komma sepererer forfattere, med anførselstegn om det hele
-        theme: ["Banker", "Klima", "Grøn omstilling", "Pengeskabelse"], //om hvert emne er der anførselstegn
+        theme: ["Demokrati", "Grøn omstilling", "Pengeskabelse"], //om hvert emne er der anførselstegn
         description: "Banker skaber penge – mange penge: Pengemængden stiger, og det har den de sidste mange årtier gjort med cirka 70 milliarder kroner om året, sidste år med hele 140 milliarder.<br>Banker er private virksomheder, og derfor udsteder de lån – altså penge – til formål, som er profitable og sikre for banken. Som oftest faste aktiver. Cirka 75 procent af udlån i danske banker er boligrelaterede. Meget få er til regenerativt jordbrug. <br> <br> Derfor burde vi spørge os selv om private virksomheder er et smart sted at placere kernen i den samfundskritiske institution,som pengesystemet er, nemlig pengeskabelsen. Og derfor er det essentielt, at vi begynder at inkludere pengeskabelsen i debatten om mulighederne for den grønne omstilling.", 
         //kun linje skift der hvor der står "<br>"
         link: "https://klimamonitor.dk/debat/art8482256/Demokratiser-pengeskabelsen-og-indfri-den-grønne-omstilling",
