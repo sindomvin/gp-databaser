@@ -81,7 +81,7 @@ var database = [
         type: "Artikel",
         rating: 8,
         price: 0.00,
-        date: "2021",
+        date: "0000-00-00",
         authors: "Jane Doe",
         theme: ["Pengesystem", "Pengeskabelse", "Økonomiske bobler", "English"],
         description: "It is widely acknowledged that the build-up of a financial bubble coincides with and may even be caused by excessive bank credit or lending (e.g., Reinhart and Rogoff, 2009; Kindleberger and Aliber, 2011; Jordà, Schularick and Taylor, 2015). Equally well understood, at least to the readers of this journal, is the fact that commercial bank lending involves money creation (Werner, 1997, 2014a, b; Ryan-Collins et al., 2011; McLeay et al., 2014; Jakab and Kumhoff, 2019).",
@@ -91,7 +91,7 @@ var database = [
     {
         name: "Banker låner ikke bare penge ud - de skaber dem",
         type: "Artikel",
-        rating: 10,
+        rating: 0,
         price: 4.00,
         date: "2021-12-16",
         authors: "Jane Doe",
@@ -115,7 +115,7 @@ var database = [
     //uden type
     {
         name: "Demokratiser pengeskabelsen og indfri den grønne omstilling",
-        rating: 10,
+        rating: 12,
         price: 0.00,
         date: "2021-11-29",
         authors: "Mads Thunestvedt, Andrea Thorup",
@@ -232,7 +232,7 @@ var database = [
     {
         name: "Demokratiser pengeskabelsen med det hele og indfri den grønne omstilling",
         type: "Artikel",
-        rating: 10,
+        rating: 11,
         price: 0.00,
         date: "2021-11-29",
         authors: "Mads Thunestvedt, Andrea Thorup",
