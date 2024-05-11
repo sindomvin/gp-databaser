@@ -1,5 +1,4 @@
 //test2.database.js
-//Jada
 var verDatabase = "test2.database.js";
 var database = [
     { 
