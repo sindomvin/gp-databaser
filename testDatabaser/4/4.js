@@ -60,7 +60,7 @@ var database = [
         date: "2007-1-1", //med anførselstegn
         authors: "Richard A. Werner", //komma sepererer forfattere, med anførselstegn om det hele
         theme: ["Økonomikritik", "Pengeteori", "Pengeskabelse"], //om hvert emne er der anførselstegn
-        description: "Banebrydende værk, der i et dusin kapitler kritiserer neoklassisk økonomi og derefter fremlægger konge-forklarringen: Banker skaber penge gennem udlånet og stimulerer økonomisk vækst, somme tider for meget - og så har vi finansbobler og -kriser<br>Banker er private virksomheder, og derfor udsteder de lån – altså penge – til formål, som er profitable og sikre for banken. Som oftest faste aktiver. Cirka 75 procent af udlån i danske banker er boligrelaterede. Meget få er til regenerativt jordbrug. <br> <br> Derfor burde vi spørge os selv om private virksomheder er et smart sted at placere kernen i den samfundskritiske institution,som pengesystemet er, nemlig pengeskabelsen. Og derfor er det essentielt, at vi begynder at inkludere pengeskabelsen i debatten om mulighederne for den grønne omstilling.", 
+        description: "Banebrydende værk, der i et dusin kapitler kritiserer neoklassisk økonomi og derefter fremlægger konge-forklarringen: Banker skaber penge gennem udlånet og stimulerer økonomisk vækst, somme tider for meget - og så har vi finansbobler og -kriser", 
         //kun linje skift der hvor der står "<br>"
         link: "https://link.springer.com/book/10.1057/9780230506077",
         image: "https://link.springer.com/book/10.1057/9780230506077",
