@@ -96,7 +96,7 @@ var database = [
         date: '2016-1-1', //tilblivesesdato for det man referer til, år-månded-dag
         authors: 'Adair Turner', //forfatter eller forfattere
         theme: ['Pengepolitik', 'Pengeskabelse', 'Centralbanker'], //Emnerne på denne form ['Emne1', 'Emne2', 'Emne3']. Det skal være med stort forbogstav
-        description: 'Obejkt til kopiering', //Beskrivelse af den specifikke Artikel, bog osv.
+        description: 'Afgående formadn for det britiske finanstilsyn skriver om britisk pengepolitik i årene omkring finanskrisen og peger fingeren direkte mod bankernes pengeskabelse', //Beskrivelse af den specifikke Artikel, bog osv.
         link: "https://press.princeton.edu/books/hardcover/9780691169644/between-debt-and-the-devil", //link 
         image: "Stockphoto bog", //link til billede
     }, {
@@ -107,7 +107,7 @@ var database = [
         date: '2008-10-10', //tilblivesesdato for det man referer til, år-månded-dag
         authors: 'Richard A. Werner', //forfatter eller forfattere
         theme: ['Økonomikritik', 'Pengeskabelse', 'Pengehistorie'], //Emnerne på denne form ['Emne1', 'Emne2', 'Emne3']. Det skal være med stort forbogstav
-        description: 'Obejkt til kopiering', //Beskrivelse af den specifikke Artikel, bog osv.
+        description: 'Fysterne i den janpanske centralbank styrede i årtierne efter 2. verdenskrig den japanske økonomi med jernhånd, så bnp pr. indbygger 100-dobledes på fyrre år - og de gjorde det i tæt, skjult konkurrence med finansministerinet', //Beskrivelse af den specifikke Artikel, bog osv.
         link: "https://quantumpublishers.com/uk-cart/index.php?route=product/product&product_id=50", //link 
         image: "Stockphoto bog", //link til billede
     }, {
@@ -123,7 +123,7 @@ var database = [
         image: "Stockphoto film", //link til billede
     },{
 
-        name: "Between Debt and Debt. Demokratiser pengeskabelsen og indfri den grønne omstilling", //Bemærk det er skrevet mellem anførselstegnene
+        name: "Demokratiser pengeskabelsen og indfri den grønne omstilling", //Bemærk det er skrevet mellem anførselstegnene
         type: "Artikel", //Kun et medie og skrevet med stort forbogstav
         rating: 10, //uden anførselstegn
         price: 0.00, //med 2 decimaler, uden anførselstegn
