@@ -143,7 +143,7 @@ var database = [
         authors: 'Richard A. Werner', //forfatter eller forfattere
         theme: ['Pengehistorie', 'Pengeskabelse', 'Centralbanker', 'Finanskrise'], //Emnerne på denne form ['Emne1', 'Emne2', 'Emne3']. Det skal være med stort forbogstav
         description: 'Filmatisering af bogen - hvordan japanske centralbanker styrede den økonomiske udvikling i landet 1945-85, og hvordan det pga. overdreven pengeskabesle til fast ejendom og værdipapirer førte til en finansboble i slut-80
-            'erne, med efterfølgende recession, som det tog landet 25 år at komme ud af', //Beskrivelse af den specifikke Artikel, bog osv.
+            erne, med efterfølgende recession, som det tog landet 25 år at komme ud af', //Beskrivelse af den specifikke Artikel, bog osv.
         link: "https://www.youtube.com/watch?v=p5Ac7ap_MAY", //link 
         image: "Stockphoto film", //link til billede
     },
