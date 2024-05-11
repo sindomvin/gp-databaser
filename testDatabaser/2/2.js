@@ -94,4 +94,18 @@ var database = [
         link: "https://www.godepenge.dk", //link 
         image: "stockphoto bog", //link til billede
     },
+    {
+        //skabelon, kopier fra "{" linjen over denne til "}," indsæt så efter "}," for at lave en ny reference
+        //udfyld derefter med info for referencen
+        name: "Cloudmoney - Cash, Cards, Crypto and the War for our Wallets", //navn
+        type: 'Bog', //mediet, vælges imellem: 'Artikel', 'Bog', 'Film' og 'Podcast'
+        rating: 5, //kvaliteten, tal mellem 1-10
+        price: 0.00, //Pris for at tilgå referencen
+        date: '2022-05-19', //tilblivesesdato for det man referer til, år-månded-dag
+        authors: 'Brett Scott', //forfatter eller forfattere
+        theme: ['Kontanter', 'Kryptovaluta', "Kapitalismekritik", 'English'], //Emnerne på denne form ['Emne1', 'Emne2', 'Emne3']. Det skal være med stort forbogstav
+        description: 'Hvem har egentlig gavn af et kontantløst samfund? Mange af os bruger sjældent kontanter i dag, da de fleste produkter og services kan tilgås via betalingskort og apps. Men det, vi får at vide, er en uundgåelig og harmløs digitalisering, er faktisk konsekvensen af en række magtfulde interessenters bevidste arbejde.<br>Cloudmoney fortæller en afslørende historie om sammensmeltningen af “big finance” og “big tech”, som har som fælles projekt, at fysiske kontanter erstattes af digitale penge eller “cloudmoney”, fordi det giver dem mulighed for at høste vores værdifulde digitale data.<br>Brett Scott dykker under det globale finansielle systems overflade og afslører en veletableret lobby-infrastruktur, der fører en skjult krig mod kontanter under fremskridtets banner, men på bekostning af vores privatliv, politik og individuelle frihed.', //Beskrivelse af den specifikke Artikel, bog osv.
+        link: "https://bibliotek.dk/materiale/cloudmoney_brett-scott/work-of:870970-basis:134990902?type=e-bog", //link 
+        image: "stock photo book", //link til billede
+    },
 ];
