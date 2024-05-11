@@ -55,7 +55,7 @@ var database = [
     {
         name: "Demokratiser pengeskabelsen og indfri den grønne omstilling",
         type: "Artikel",
-        rating: 10,
+        rating: 12,
         price: 0.00,
         date: "2021-11-29",
         authors: "Mads Thunestvedt, Andrea Thorup",
