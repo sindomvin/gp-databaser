@@ -79,32 +79,31 @@ var database = [
         //kun linje skift der hvor der står "<br>"
         link: "https://www.godepenge.dk/shop",
         image: "Stockphoto bog",
-    },
-     {
-        //skabelon, kopier fra "{" linjen over denne til "}," indsæt så efter "}," for at lave en ny reference
-        //udfyld derefter med info for referencen
-        name: 'Skabelon for en reference', //navn
-        type: 'Artikel', //mediet, vælges imellem: 'Artikel', 'Bog', 'Film' og 'Podcast'
-        rating: 3, //kvaliteten, tal mellem 1-10
-        price: 0.00, //Pris for at tilgå referencen
-        date: '2021-11-29', //tilblivesesdato for det man referer til, år-månded-dag
-        authors: 'forfatter', //forfatter eller forfattere
-        theme: ['Demokrati', 'Pengeskabelse'], //Emnerne på denne form ['Emne1', 'Emne2', 'Emne3']. Det skal være med stort forbogstav
-        description: 'Obejkt til kopiering', //Beskrivelse af den specifikke Artikel, bog osv.
-        link: "https://www.godepenge.dk", //link 
-        image: "", //link til billede
     }, {
         //skabelon, kopier fra "{" linjen over denne til "}," indsæt så efter "}," for at lave en ny reference
         //udfyld derefter med info for referencen
-        name: 'Skabelon for en reference', //navn
+        name: 'The veil of deception over money: How central bankers and textbooks distort the nature of banking and central banking', //navn
         type: 'Artikel', //mediet, vælges imellem: 'Artikel', 'Bog', 'Film' og 'Podcast'
-        rating: 3, //kvaliteten, tal mellem 1-10
+        rating: 6, //kvaliteten, tal mellem 1-10
         price: 0.00, //Pris for at tilgå referencen
-        date: '2021-11-29', //tilblivesesdato for det man referer til, år-månded-dag
-        authors: 'forfatter', //forfatter eller forfattere
-        theme: ['Demokrati', 'Pengeskabelse'], //Emnerne på denne form ['Emne1', 'Emne2', 'Emne3']. Det skal være med stort forbogstav
+        date: '2013-1-1', //tilblivesesdato for det man referer til, år-månded-dag
+        authors: 'Norbert Häring', //forfatter eller forfattere
+        theme: ['Banker', 'Pengeskabelse', 'Økonomikritik'], //Emnerne på denne form ['Emne1', 'Emne2', 'Emne3']. Det skal være med stort forbogstav
+        description: 'Kritisk finansjournalist skriver i Real-World Economics Review, vol. 62, s. 2-18 om forestillingen om penge som et slør, som neoklassiske økonomer kalder det, fordi penge ikke indgår i deres teori - men det skyldes magthavernes trang til at sløre deres styring af pengene, hævder Häring', //Beskrivelse af den specifikke Artikel, bog osv.
+        link: "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.paecon.net/PAEReview/issue63/Haring63.pdf&ved=2ahUKEwjdmKqD6IWGAxVeFhAIHWJ1DnAQFnoECBAQAQ&usg=AOvVaw1IEm61pQkwzYn5RmXApcEb", //link 
+        image: "Stockphoto artikel", //link til billede
+    }, {
+        //skabelon, kopier fra "{" linjen over denne til "}," indsæt så efter "}," for at lave en ny reference
+        //udfyld derefter med info for referencen
+        name: 'Between debt and the devil: Money, credit, and fixing global finance', //navn
+        type: 'Bog', //mediet, vælges imellem: 'Artikel', 'Bog', 'Film' og 'Podcast'
+        rating: 5, //kvaliteten, tal mellem 1-10
+        price: 300.00, //Pris for at tilgå referencen
+        date: '2016-1-1', //tilblivesesdato for det man referer til, år-månded-dag
+        authors: 'Adair Turner', //forfatter eller forfattere
+        theme: ['Pengepolitik', 'Pengeskabelse', 'Centralbanker'], //Emnerne på denne form ['Emne1', 'Emne2', 'Emne3']. Det skal være med stort forbogstav
         description: 'Obejkt til kopiering', //Beskrivelse af den specifikke Artikel, bog osv.
-        link: "https://www.godepenge.dk", //link 
+        link: "https://press.princeton.edu/books/hardcover/9780691169644/between-debt-and-the-devil", //link 
         image: "Stockphoto bog", //link til billede
     }, {
         //skabelon, kopier fra "{" linjen over denne til "}," indsæt så efter "}," for at lave en ny reference
