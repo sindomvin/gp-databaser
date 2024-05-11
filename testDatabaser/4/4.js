@@ -57,7 +57,7 @@ var database = [
         name: "New Paradigm in Macroeconomics", //Bemærk det er skrevet mellem anførselstegnene
         type: "Bog", //Kun et medie og skrevet med stort forbogstav
         rating: 8, //uden anførselstegn
-        price: Ca. £30, //med 2 decimaler, uden anførselstegn
+        price: 300.00, //med 2 decimaler, uden anførselstegn
         date: "2007-1-1", //med anførselstegn
         authors: "Richard A. Werner", //komma sepererer forfattere, med anførselstegn om det hele
         theme: ["Økonomikritik", "Pengeteori", "Pengeskabelse"], //om hvert emne er der anførselstegn
@@ -105,7 +105,7 @@ var database = [
         theme: ['Demokrati', 'Pengeskabelse'], //Emnerne på denne form ['Emne1', 'Emne2', 'Emne3']. Det skal være med stort forbogstav
         description: 'Obejkt til kopiering', //Beskrivelse af den specifikke Artikel, bog osv.
         link: "https://www.godepenge.dk", //link 
-        image: "", //link til billede
+        image: "Stockphoto bog", //link til billede
     }, {
         //skabelon, kopier fra "{" linjen over denne til "}," indsæt så efter "}," for at lave en ny reference
         //udfyld derefter med info for referencen
