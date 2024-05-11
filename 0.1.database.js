@@ -211,4 +211,66 @@ var database = [
         link: "https://podcasts.apple.com/dk/podcast/03-07-20-private-banker-b%C3%B8r-ikke-skabe-vores-samfunds-penge/id1506906745?i=1000482327573", //link 
         image: "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/70/f7/db/70f7dbed-d3c0-874d-fa83-0753507ebca2/mza_2758003647180881172.jpg/536x0w.webp", //link til billede
     },
+     {
+        name: 'Money: The unauthorized biography', //navn
+        type: 'Bog', //mediet, vælges imellem: 'Artikel', 'Bog', 'Film' og 'Podcast'
+        rating: 5, //kvaliteten, tal mellem 1-10
+        price: 150.00, //Pris for at tilgå referencen
+        date: '2014-11-29', //tilblivesesdato for det man referer til, år-månded-dag
+        authors: 'Felix Martin', //forfatter eller forfattere
+        theme: ['Pengehistorie', 'Pengeteori', 'Pengeskabelse', 'English'], //Emnerne på denne form ['Emne1', 'Emne2', 'Emne3']. Det skal være med stort forbogstav
+        description: 'En rigtig god og tilgængelig bog om pengenes historie, og hvorfor vi har brug for at gøre bedre forståelse af pengessystemet mere mainstream.', //Beskrivelse af den specifikke Artikel, bog osv.
+        link: "https://www.saxo.com/dk/money_felix-martin_paperback_9780099578529", //link 
+        image: "https://imgcdn.saxo.com/_9780345803559", //link til billede
+    },
+        {
+        name: 'Talking to my daughter about the economy – a brief history of capitalism', //navn
+        type: 'Bog', //mediet, vælges imellem: 'Artikel', 'Bog', 'Film' og 'Podcast'
+        rating: 3, //kvaliteten, tal mellem 1-10
+        price: 100.00, //Pris for at tilgå referencen
+        date: '2019-11-29', //tilblivesesdato for det man referer til, år-månded-dag
+        authors: 'Yanis Varoufakis', //forfatter eller forfattere
+        theme: ['Demokrati', 'Kapitalismekritik', 'Pengepolitik', 'Finanskrise', 'EU', 'Introducerende', 'Dansk', 'English'], //Emnerne på denne form ['Emne1', 'Emne2', 'Emne3']. Det skal være med stort forbogstav
+        description: 'En virkelig god og velskrevet introducerende bog af den tidligere græske finansminister Yanis Varoufakis om problemerne ved det nuværende økonomiske system. <br><br> Tilgængelig på både dansk og engelsk. ', //Beskrivelse af den specifikke Artikel, bog osv.
+        link: "https://www.saxo.com/dk/talking-to-my-daughter-about-the-economy-a-brief-history-of-capitalism-pb-b-format_paperback_9781784705756?gad_source=1&gclid=CjwKCAjwrvyxBhAbEiwAEg_Kgtb5fUqvhHZS2wy7kMo2-UAAOZ3nqNPD4oyCfIxyY5LKH2tPsoHFoRoC9l8QAvD_BwE", //link 
+        image: "https://imgcdn.saxo.com/_9781784705756", //link til billede
+    },
+     {
+        name: 'Økonomien og virkeligheden', //navn
+        type: 'Bog', //mediet, vælges imellem: 'Artikel', 'Bog', 'Film' og 'Podcast'
+        rating: 3, //kvaliteten, tal mellem 1-10
+        price: 100.00, //Pris for at tilgå referencen
+        date: '2019-11-29', //tilblivesesdato for det man referer til, år-månded-dag
+        authors: 'Katarina Juselius', //forfatter eller forfattere
+        theme: ['Finanskrise', 'Den finansielle sektor', 'Pengeskabelse', 'Dansk'], //Emnerne på denne form ['Emne1', 'Emne2', 'Emne3']. Det skal være med stort forbogstav
+        description: 'En lille og forholdvis let tilgængelig bog om mainstream økonomis blinde vinkler ift. pengenes rolle i økonomien – især ift økonomisk ustabilitet. <br><br> Katarina Juselius en af de mest citerede økonomer i 1990erne, kendt for sit arbejde med makroøkonomiske CVAR-modeller.', //Beskrivelse af den specifikke Artikel, bog osv.
+        link: "https://butik.information.dk/products/okonomien-og-virkeligheden", //link 
+        image: "https://butik.information.dk/cdn/shop/products/Okonomien_og_Virkeligheden_3D_720x.png?v=1568652679", //link til billede
+    },
+     {
+        name: 'Har vi råd til den grønne omstilling?', //navn
+        type: 'Artikel', //mediet, vælges imellem: 'Artikel', 'Bog', 'Film' og 'Podcast'
+        rating: 5, //kvaliteten, tal mellem 1-10
+        price: 0.00, //Pris for at tilgå referencen
+        date: '2021-04-27', //tilblivesesdato for det man referer til, år-månded-dag
+        authors: 'Andrea Thorup', //forfatter eller forfattere
+        theme: ['Grøn omstilling', 'Pengeskabelse', 'Pengeteori', 'banker', 'Introducerende', 'Dansk'], //Emnerne på denne form ['Emne1', 'Emne2', 'Emne3']. Det skal være med stort forbogstav
+        description: 'En relativt kort introducerende artikel om bankernes pengeskabelses betydning for den grønne omstilling. Og hvordan ændringer i pengesystemet i stedet kunne bidrage til at fremme den grønne omstilling.', //Beskrivelse af den specifikke Artikel, bog osv.
+        link: "https://www.responsmedie.dk/klimaretfardighed-9/", //link 
+        image: "https://usercontent.one/wp/www.responsmedie.dk/wp-content/uploads/2021/04/harvir%C3%A5dtildengr%C3%B8nneomstilling_header1.png?media=1684748085", //link til billede
+    },
+    {
+        //skabelon, kopier fra "{" linjen over denne til "}," indsæt så efter "}," for at lave en ny reference
+        //udfyld derefter med info for referencen
+        name: 'Glimt af pengeskabelsens historie', //navn
+        type: 'Artikel', //mediet, vælges imellem: 'Artikel', 'Bog', 'Film' og 'Podcast'
+        rating: 7, //kvaliteten, tal mellem 1-10
+        price: 0.00, //Pris for at tilgå referencen
+        date: '2017-01-28', //tilblivesesdato for det man referer til, år-månded-dag
+        authors: 'Ib Ravn', //forfatter eller forfattere
+        theme: ['Pengehistorie', 'Pengeskabelse', 'Banker', 'Introducerende', 'Dansk'], //Emnerne på denne form ['Emne1', 'Emne2', 'Emne3']. Det skal være med stort forbogstav
+        description: 'En lettilgængelig, relativt kort artikel om pengenes historie og udviklingen op til moderne bankdrift.', //Beskrivelse af den specifikke Artikel, bog osv.
+        link: "https://baggrund.com/2017/01/28/glimt-af-pengeskabelsens-historie/", //link 
+        image: "stockphoto artikel", //link til billede
+    },
 ];
