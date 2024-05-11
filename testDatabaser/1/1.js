@@ -87,7 +87,7 @@ var database = [
         price: 0.00, //Pris for at tilgå referencen
         date: '2011-01-01', //tilblivesesdato for det man referer til, år-månded-dag
         authors: 'David Graeber', //forfatter eller forfattere
-        theme: ['Pengehistorie', 'Pengeteori, 'Økonomisk ulighed', 'Den finansielle sektor', 'Demokrati', 'Pengeskabelse', 'English'], //Emnerne på denne form ['Emne1', 'Emne2', 'Emne3']. Det skal være med stort forbogstav
+        theme: ['Pengehistorie', 'Pengeteori', 'Økonomisk ulighed', 'Den finansielle sektor', 'Demokrati', 'Pengeskabelse', 'English'], //Emnerne på denne form ['Emne1', 'Emne2', 'Emne3']. Det skal være med stort forbogstav
         description: 'Lang og detaljeret bog om pengenes historie, som grundigt viser hvordan penge også de seneste 5000 år altid har været baseret på gæld. I kapitlet "The myth of barter" gennemgår Graeber hvordan og hvorfor mainstream økonomis falske historie om fortidens bytteøkonomi er opstået, og fastholdes idag, som et forsøg på afpolitisering af penge. <br><br>En fuldstændig fremragende bog om pengeteori, meget velskrevet – og for nørder med en til tider underspillet humor. <br><br>Kan sikkert både lånes på biblioteket og købes diverse steder i papir, e-bog og lydbog. ', //Beskrivelse af den specifikke Artikel, bog osv.
         link: "https://warwick.ac.uk/fac/arts/english/currentstudents/undergraduate/modules/fulllist/special/statesofdamage/syllabus201516/graeber-debt_the_first_5000_years.pdf", //link 
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkSAEs74_c5F0mNj9DxIZAYWIuZbBXjeXWVtgd_7vACg&s", //link til billede
@@ -99,7 +99,7 @@ var database = [
         price: 200.00, //Pris for at tilgå referencen
         date: '2018-01-01', //tilblivesesdato for det man referer til, år-månded-dag
         authors: 'Kate Raworth', //forfatter eller forfattere
-        theme: ['Lokalvaluta', 'Den finansielle sektor', 'Kapitalismekritik', 'Grøn omstilling', 'Dansk, 'English'], //Emnerne på denne form ['Emne1', 'Emne2', 'Emne3']. Det skal være med stort forbogstav
+        theme: ['Lokalvaluta', 'Den finansielle sektor', 'Kapitalismekritik', 'Grøn omstilling', 'Dansk', 'English'], //Emnerne på denne form ['Emne1', 'Emne2', 'Emne3']. Det skal være med stort forbogstav
         description: 'I bogen, der omhandler hele økonomifaget og økonomien – og potentialet for en grøn omstilling – er der også ét kapitel om hvordan pengesystemet har med sagen at gøre. Kapitel 5. <br><br>Bogen er tilgængelig på både bibliotek og køb i papir, ebog og lydbog, både på dansk og engelsk.', //Beskrivelse af den specifikke Artikel, bog osv.
         link: "https://butik.information.dk/products/doughnut-okonomi", //link 
         image: "https://butik.information.dk/cdn/shop/products/Doughnut-okonomi_720x.png?v=1568652752", //link til billede
