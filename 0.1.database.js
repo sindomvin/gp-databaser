@@ -254,7 +254,7 @@ var database = [
         price: 0.00, //Pris for at tilgå referencen
         date: '2021-04-27', //tilblivesesdato for det man referer til, år-månded-dag
         authors: 'Andrea Thorup', //forfatter eller forfattere
-        theme: ['Grøn omstilling', 'Pengeskabelse', 'Pengeteori', 'banker', 'Introducerende', 'Dansk'], //Emnerne på denne form ['Emne1', 'Emne2', 'Emne3']. Det skal være med stort forbogstav
+        theme: ['Grøn omstilling', 'Pengeskabelse', 'Pengeteori', 'Banker', 'Introducerende', 'Dansk'], //Emnerne på denne form ['Emne1', 'Emne2', 'Emne3']. Det skal være med stort forbogstav
         description: 'En relativt kort introducerende artikel om bankernes pengeskabelses betydning for den grønne omstilling. Og hvordan ændringer i pengesystemet i stedet kunne bidrage til at fremme den grønne omstilling.', //Beskrivelse af den specifikke Artikel, bog osv.
         link: "https://www.responsmedie.dk/klimaretfardighed-9/", //link 
         image: "https://usercontent.one/wp/www.responsmedie.dk/wp-content/uploads/2021/04/harvir%C3%A5dtildengr%C3%B8nneomstilling_header1.png?media=1684748085", //link til billede
