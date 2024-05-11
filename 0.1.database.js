@@ -115,4 +115,28 @@ var database = [
         link: "https://neweconomics.org/2012/12/where-does-money-come-from", //link 
         image: "https://neweconomics.org/uploads/images/2012/12/WDMCF2.png", //link til billede
     },
+         {
+        name: 'Debunking Economics: The Naked Emperor Dethroned?', //navn
+        type: 'Bog', //mediet, vælges imellem: 'Artikel', 'Bog', 'Film' og 'Podcast'
+        rating: 6, //kvaliteten, tal mellem 1-10
+        price: 350.00, //Pris for at tilgå referencen
+        date: '2011-01-01', //tilblivesesdato for det man referer til, år-månded-dag
+        authors: 'Steve Keen', //forfatter eller forfattere
+        theme: ['Finanskrise', 'Boligmarkedet', 'English'], // 'Økonomikritik' Hvis det bliver accepteret som emne
+        description: 'Denne bog forklarer i detaljer, hvad der er galt med det meste af den økonomiske videnskab, og hvorfor de fleste økonomer ikke forudså den globale finanskrise i 2007-08. Professor i økonomi Steve Keen er kendt for at være én af de få, der på forhånd advarede om, at en økonomisk krise ville bryde ud. <i>Debunking Economics</i> forklarer alle de urealistiske antagelser og logiske og matematiske fejl, som moderne økonomisk videnskab bygger på - i et indførende og ikke-matematisk sprog. Emnerne er komplekse, men man behøver ikke at have læst økonomi eller forstå ligninger for at kunne følge med. Teorien om at markedet balancerer udbud og efterspørgsel og finder et prisniveau, der fører til økonomisk ligevægt og vækst, er forfejlet. Den kan ikke en gang give en forklaring på økonomiske kriser. Steve Keen giver også sit bud på hvordan en realistisk økonomisk videnskab kunne se ud, hvis den tog højde for gældens og pengeskabelsens betydning for økonomiske op- og nedture.', //Beskrivelse af den specifikke Artikel, bog osv.
+        link: "https://www.saxo.com/dk/debunking-economics_professor-steve-keen-steve-keen_epub_9781848139954", //link 
+        image: "https://imgcdn.saxo.com/_9781848139954/0x500", //link til billede
+    },
+     {
+        name: 'Can we avoid another financial crisis?', //navn
+        type: 'Bog', //mediet, vælges imellem: 'Artikel', 'Bog', 'Film' og 'Podcast'
+        rating: 7, //kvaliteten, tal mellem 1-10
+        price: 120.00, //Pris for at tilgå referencen
+        date: '2011-01-01', //tilblivesesdato for det man referer til, år-månded-dag
+        authors: 'Steve Keen', //forfatter eller forfattere
+        theme: ['Finanskrise', 'Boligmarkedet', 'Pengeskabelse', 'English'], // 'Økonomikritik' Hvis det bliver accepteret som emne
+        description: 'I denne lille, letlæste bog forklarer Steve Keen hvordan den globale finanskrise 2007-08 opstod, hvordan han var i stand til at forudse og advare offentligt om den, og hvorfor de fleste andre økonomer overså den. I årene op til krisen fik de overbevist sig selv om, at deres arbejde havde udelukket muligheden for nye kriser. Ifølge den dominerende økonomiske videnskab har penge ikke reel betydning for økonomiens udvikling. Men det var netop hans opmærksomhed på pengeskabelse og gæld, der gjorde Keen i stand til at forudsige krisen. I bogen giver Keen også sine bud på, hvordan vi ville kunne undgå nye kriser blandt andet at sætte grænser for bankernes pengeskabelse.', //Beskrivelse af den specifikke Artikel, bog osv.
+        link: "https://www.saxo.com/dk/can-we-avoid-another-financial-crisis_steve-keen_paperback_9781509513734", //link 
+        image: "https://imgcdn.saxo.com/_9781509513734/0x500", //link til billede
+    },
 ];
