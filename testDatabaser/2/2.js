@@ -80,4 +80,18 @@ var database = [
         link: "https://www.godepenge.dk", //link 
         image: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbt.bmcdn.dk%2Fmedia%2Fcache%2Fresolve%2Fimage_1240%2Fimage%2F72%2F728652%2F6899368-bt.jpg&f=1&nofb=1&ipt=b47bdbea78d1d982148fb7d17dd56f842027a5b0219bbe53bb6749321f24dcb7&ipo=images", //link til billede
     },
+    {
+        //skabelon, kopier fra "{" linjen over denne til "}," indsæt så efter "}," for at lave en ny reference
+        //udfyld derefter med info for referencen
+        name: 'Test2', //navn
+        type: 'Artikel', //mediet, vælges imellem: 'Artikel', 'Bog', 'Film' og 'Podcast'
+        rating: 3, //kvaliteten, tal mellem 1-10
+        price: 0.00, //Pris for at tilgå referencen
+        date: '2021-11-29', //tilblivesesdato for det man referer til, år-månded-dag
+        authors: 'Simon', //forfatter eller forfattere
+        theme: ['Demokrati', 'Pengeskabelse', 'Finanskrise', 'Pengeteori'], //Emnerne på denne form ['Emne1', 'Emne2', 'Emne3']. Det skal være med stort forbogstav
+        description: 'Test til at vis hvordan man gør <br>bla bla', //Beskrivelse af den specifikke Artikel, bog osv.
+        link: "https://www.godepenge.dk", //link 
+        image: "stockphoto bog", //link til billede
+    },
 ];
