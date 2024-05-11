@@ -74,7 +74,7 @@ var database = [
         price: 200.00, //med 2 decimaler, uden anførselstegn
         date: "2019-10-10", //med anførselstegn
         authors: "Ib Ravn", //komma sepererer forfattere, med anførselstegn om det hele
-        theme: ["Banker", "Pengehistorie, "Pengeskabelse"], //om hvert emne er der anførselstegn
+        theme: ["Banker", "Pengehistorie", "Pengeskabelse"], //om hvert emne er der anførselstegn
         description: "Forklaring for kvikke begyndere: Pengeskabelsens historie og mekanik i dag, samt Gode Penges pengereform" 
         //kun linje skift der hvor der står "<br>"
         link: "https://www.godepenge.dk/shop",
