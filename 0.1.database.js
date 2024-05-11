@@ -139,4 +139,17 @@ var database = [
         link: "https://www.saxo.com/dk/can-we-avoid-another-financial-crisis_steve-keen_paperback_9781509513734", //link 
         image: "https://imgcdn.saxo.com/_9781509513734/0x500", //link til billede
     },
+             {
+        name: 'The New Economics: A Manifesto', //navn
+        type: 'Bog', //mediet, vælges imellem: 'Artikel', 'Bog', 'Film' og 'Podcast'
+        rating: 6, //kvaliteten, tal mellem 1-10
+        price: 130.00, //Pris for at tilgå referencen
+        date: '2021-10-15', //tilblivesesdato for det man referer til, år-månded-dag
+        authors: 'Steve Keen', //forfatter eller forfattere
+        theme: ['Pengeteori', 'Pengeskabelse', 'Grøn omstilling', 'English'], // 'Økonomikritik' Hvis det bliver accepteret som emne
+        description: 'I denne bog præsenterer Steve Keen sit bud på, hvordan en ny og mere realistisk økonomisk videnskab kunne se ud. Nutidens dominerende mainstream-økonomi antager at økonomien er et ligevægtigt, stabilt system og ignorerer betydningen af klasse, penge og energi. Dermed er den økonomiske videnskab også hæmsko for at forebygge nye økonomiske kriser og gennemføre den grønne omstilling. Keen forklarer hvordan økonomer i stedet kunne forstå økonomien som et dynamisk system med arbejdere, virksomheder og banker og som aldrig er i ligevægt. Han skitserer også hvordan sådanne systemdynamiske modeller kan bygges i hans software-pakke kaldet "Minsky".', //Beskrivelse af den specifikke Artikel, bog osv.
+        link: "https://www.saxo.com/dk/the-new-economics_steve-keen_paperback_9781509545292", //link 
+        image: "https://imgcdn.saxo.com/_9781509545292/0x500", //link til billede
+    },
+
 ];
