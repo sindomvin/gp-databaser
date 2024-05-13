@@ -1,25 +1,54 @@
 //0.0.database.js
 var verDatabase = "0.0.database.js"
 var database = [
-    {
-        name: "Rækkefølge bestemmer",
-        type: "Artikel",
-        description: "om Gp",
-        authors: "Mads Thunestvedt, Andrea Thorup",
-        theme: ["Banker", "Klima"],
-        rating: 0      
+    { 
+        //Dette objekt bestemmer rækkefølgen af emnerne og skal være øverst.
+        //Her i ligger alle de emner man kan vælge i mellem
+        name: "Emene Rækkefølge bestemmer",
+        theme: [
+            "English",
+            "Dansk",
+            "Introducerende",
+            
+            "Pengeskabelse",
+            "Betalingssystemer",
+            "Pengereform",
+            "EU",
+            
+            "Pengepolitik",
+            
+            "Centralbanker",
+            "Banker",
+            "Den finansielle sektor",
+            "Skyggebanker",
+            
+            "Kontanter",
+            "CBDC",
+            "Kryptovaluta",
+            "Lokalvaluta",
+            
+            "Pengehistorie",
+            "Pengeteori",
+            
+            "Finanskrise",
+            "Boligmarkedet",
+            "Kapitalismekritik",
+            "Grøn omstilling",
+            "Økonomisk ulighed",
+            "Demokrati"
+            ]    
     },
     {
-        name: "Artikel om Gp 3",
+        name: "artikel",
         type: "Artikel",
-        description: "om Gp",
-        theme: ["Bank", "Penge"],
-        rating: 3
-        // andre ideer:
-        //    nivau
-        //    forfatter
-        //    sprog
-            
+        rating: 10,
+        price: 0.00,
+        date: "2021-11-29",
+        authors: "for",
+        theme: ["Banker", "Klima", "Grøn omstilling", "Pengeskabelse"],
+        description: "art",
+        link: "huh",
+        image: "https://cdn.pixabay.com/photo/2013/07/12/19/16/newspaper-154444_1280.png"
     },
     {
         name: "Bog om Gp",
