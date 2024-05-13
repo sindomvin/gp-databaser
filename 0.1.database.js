@@ -45,7 +45,7 @@ var database = [
         type: 'Artikel', //mediet, vælges imellem: 'Artikel', 'Bog', 'Film' og 'Podcast'
         rating: 3, //kvaliteten, tal mellem 1-10
         price: 0.00, //Pris for at tilgå referencen
-        date: '2021-11-29', //tilblivesesdato for det man referer til, år-månded-dag
+        date: '2021-11-29' //tilblivesesdato for det man referer til, år-månded-dag
         authors: 'forfatter', //forfatter eller forfattere
         theme: ['Demokrati', 'Pengeskabelse'], //Emnerne på denne form ['Emne1', 'Emne2', 'Emne3']. Det skal være med stort forbogstav
         description: 'Obejkt til kopiering', //Beskrivelse af den specifikke Artikel, bog osv.
