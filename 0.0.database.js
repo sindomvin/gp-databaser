@@ -46,9 +46,56 @@ var database = [
         date: "2021-11-29",
         authors: "for",
         theme: ["Banker", "Klima", "Grøn omstilling", "Pengeskabelse"],
-        description: "art",
+        description: "stock",
         link: "huh",
         image: "https://cdn.pixabay.com/photo/2013/07/12/19/16/newspaper-154444_1280.png"
+    },{
+        name: "bog",
+        type: "Bog",
+        rating: 10,
+        price: 0.00,
+        date: "2021-11-29",
+        authors: "for",
+        theme: ["Banker", "Klima", "Grøn omstilling", "Pengeskabelse"],
+        description: "stock",
+        link: "huh",
+        image: "https://cdn.pixabay.com/photo/2017/05/03/22/08/book-2282303_1280.png"
+    },
+    {
+        name: "film",
+        type: "Film",
+        rating: 10,
+        price: 0.00,
+        date: "2021-11-29",
+        authors: "for",
+        theme: ["Banker", "Klima", "Grøn omstilling", "Pengeskabelse"],
+        description: "stock",
+        link: "huh",
+        image: "https://cdn.pixabay.com/photo/2013/07/13/01/16/countdown-155439_1280.png"
+    },
+    {
+        name: "video",
+        type: "Video",
+        rating: 10,
+        price: 0.00,
+        date: "2021-11-29",
+        authors: "for",
+        theme: ["Banker", "Klima", "Grøn omstilling", "Pengeskabelse"],
+        description: "stock",
+        link: "huh",
+        image: "https://cdn.pixabay.com/photo/2017/06/30/03/34/gui-2457115_1280.png"
+    },
+    {
+        name: "podcast",
+        type: "Podcast",
+        rating: 10,
+        price: 0.00,
+        date: "2021-11-29",
+        authors: "for",
+        theme: ["Banker", "Klima", "Grøn omstilling", "Pengeskabelse"],
+        description: "stock",
+        link: "huh",
+        image: " https://cdn.pixabay.com/photo/2016/04/11/14/59/podcast-icon-1322239_1280.png"
     },
     {
         name: "Bog om Gp",
