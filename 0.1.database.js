@@ -76,7 +76,7 @@ var database = [
         description: "Forklaring for kvikke begyndere: Pengeskabelsens historie og mekanik i dag, samt Gode Penges pengereform", 
         //kun linje skift der hvor der står "<br>"
         link: "https://www.godepenge.dk/shop",
-        image: "Stockphoto bog",
+        image: "https://cdn.pixabay.com/photo/2017/05/03/22/08/book-2282303_1280.png",
     }, {
         name: 'The veil of deception over money: How central bankers and textbooks distort the nature of banking and central banking', //navn
         type: 'Artikel', //mediet, vælges imellem: 'Artikel', 'Bog', 'Film' og 'Podcast'
@@ -87,7 +87,7 @@ var database = [
         theme: ['Banker', 'Pengeskabelse', 'Økonomikritik'], //Emnerne på denne form ['Emne1', 'Emne2', 'Emne3']. Det skal være med stort forbogstav
         description: 'Kritisk finansjournalist skriver i Real-World Economics Review, vol. 62, s. 2-18 om forestillingen om penge som et slør, som neoklassiske økonomer kalder det, fordi penge ikke indgår i deres teori - men det skyldes magthavernes trang til at sløre deres styring af pengene, hævder Häring', //Beskrivelse af den specifikke Artikel, bog osv.
         link: "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.paecon.net/PAEReview/issue63/Haring63.pdf&ved=2ahUKEwjdmKqD6IWGAxVeFhAIHWJ1DnAQFnoECBAQAQ&usg=AOvVaw1IEm61pQkwzYn5RmXApcEb", //link 
-        image: "Stockphoto artikel", //link til billede
+        image: "https://cdn.pixabay.com/photo/2013/07/12/19/16/newspaper-154444_1280.png", //link til billede
     }, {
         name: 'Between debt and the devil: Money, credit, and fixing global finance', //navn
         type: 'Bog', //mediet, vælges imellem: 'Artikel', 'Bog', 'Film' og 'Podcast'
@@ -98,7 +98,7 @@ var database = [
         theme: ['Pengepolitik', 'Pengeskabelse', 'Centralbanker'], //Emnerne på denne form ['Emne1', 'Emne2', 'Emne3']. Det skal være med stort forbogstav
         description: 'Afgående formadn for det britiske finanstilsyn skriver om britisk pengepolitik i årene omkring finanskrisen og peger fingeren direkte mod bankernes pengeskabelse', //Beskrivelse af den specifikke Artikel, bog osv.
         link: "https://press.princeton.edu/books/hardcover/9780691169644/between-debt-and-the-devil", //link 
-        image: "Stockphoto bog", //link til billede
+        image: "https://cdn.pixabay.com/photo/2017/05/03/22/08/book-2282303_1280.png", //link til billede
     }, {
         name: 'Princes of the Yen', //navn
         type: 'Bog', //mediet, vælges imellem: 'Artikel', 'Bog', 'Film' og 'Podcast'
@@ -109,7 +109,7 @@ var database = [
         theme: ['Økonomikritik', 'Pengeskabelse', 'Pengehistorie'], //Emnerne på denne form ['Emne1', 'Emne2', 'Emne3']. Det skal være med stort forbogstav
         description: 'Fysterne i den janpanske centralbank styrede i årtierne efter 2. verdenskrig den japanske økonomi med jernhånd, så bnp pr. indbygger 100-dobledes på fyrre år - og de gjorde det i tæt, skjult konkurrence med finansministerinet', //Beskrivelse af den specifikke Artikel, bog osv.
         link: "https://quantumpublishers.com/uk-cart/index.php?route=product/product&product_id=50", //link 
-        image: "Stockphoto bog", //link til billede
+        image: "https://cdn.pixabay.com/photo/2017/05/03/22/08/book-2282303_1280.png", //link til billede
     }, {
          name: 'Princes of the Yen', //navn
         type: 'Film', //mediet, vælges imellem: 'Artikel', 'Bog', 'Film' og 'Podcast'
@@ -120,7 +120,7 @@ var database = [
         theme: ['Pengehistorie', 'Pengeskabelse', 'Centralbanker', 'Finanskrise'], //Emnerne på denne form ['Emne1', 'Emne2', 'Emne3']. Det skal være med stort forbogstav
         description: 'Filmatisering af bogen - hvordan japanske centralbanker styrede den økonomiske udvikling i landet 1945-85, og hvordan det pga. overdreven pengeskabesle til fast ejendom og værdipapirer førte til en finansboble i slut-80"erne, med efterfølgende recession, som det tog landet 25 år at komme ud af', //Beskrivelse af den specifikke Artikel, bog osv.
         link: "https://www.youtube.com/watch?v=p5Ac7ap_MAY", //link 
-        image: "Stockphoto film", //link til billede
+        image: "https://cdn.pixabay.com/photo/2013/07/13/01/16/countdown-155439_1280.png", //link til billede
 },
    {
         //skabelon, kopier fra "{" linjen over denne til "}," indsæt så efter "}," for at lave en ny reference
@@ -304,7 +304,7 @@ var database = [
         theme: ['Pengehistorie', 'Pengeskabelse', 'Banker', 'Introducerende', 'Dansk'], //Emnerne på denne form ['Emne1', 'Emne2', 'Emne3']. Det skal være med stort forbogstav
         description: 'En lettilgængelig, relativt kort, virkelig god artikel om pengenes historie og udviklingen op til moderne bankdrift.', //Beskrivelse af den specifikke Artikel, bog osv.
         link: "https://baggrund.com/2017/01/28/glimt-af-pengeskabelsens-historie/", //link 
-        image: "stockphoto artikel", //link til billede
+        image: "https://cdn.pixabay.com/photo/2013/07/12/19/16/newspaper-154444_1280.png", //link til billede
     },
     {
         //skabelon, kopier fra "{" linjen over denne til "}," indsæt så efter "}," for at lave en ny reference
